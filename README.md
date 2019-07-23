@@ -1,2 +1,2 @@
 # ancovaRCT
-R simulation code for 'Robustness of ANCOVA in randomised trials with unequal randomisation'
+R simulation code for 'Robustness of ANCOVA in randomized trials with unequal randomization'
